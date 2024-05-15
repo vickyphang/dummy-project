@@ -1,2 +1,6 @@
-First: create README.md
+# Dummy Project 👽
+This is a dummy project for testing github activity monitoring in public repostiory
+
+
+###First: create README.md
 ### Update repo
